@@ -29,7 +29,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Deadcoder001&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=14&order=3" height="150" alt="streak graph"  />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ridhamguptaprogramming-ops%20.&theme=transparent&border_radius=4.7&mode=weekly&hide_total_contributions=true" alt="GitHub Streak" /></a>
 </div>
 
 <!-- <h1 align="center">Hi 👋, I'm Ridham Gupta</h1>
